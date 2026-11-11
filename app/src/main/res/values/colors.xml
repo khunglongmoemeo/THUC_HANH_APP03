@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Palette (Blue - Xanh Dương) -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF9800</color>
+
+    <!-- Status Colors -->
+    <color name="warning_red">#D32F2F</color>
+    <color name="warning_bg">#FFEBEE</color>
+    <color name="success_green">#388E3C</color>
+
+    <!-- Neutral Colors -->
+    <color name="bg_light">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Theme Accents -->
+    <color name="stats_bg">#0D47A1</color>
+
+    <color name="tag_bg">#E3F2FD</color>
+    <color name="tag_text">#1565C0</color>
+</resources>
